@@ -78,6 +78,5 @@ Projektna dokumentacija sadrži detaljan opis:
 ---
 
 **Projekt je izrađen u sklopu kolegija Skladište podataka i poslovna inteligencija na Fakultetu organizacije i informatike.**
-Projektna dokumentacija
 
 Projektna dokumentacija sadrži detaljan opis modela skladišta podataka, provedbe ETL procesa, korištenih SQL upita i izrađenih Tableau izvještaja.
